@@ -2,7 +2,7 @@
 
 Hi, I'm **Mary Irene Jalalon** also known as **rinnjalalon**. I graduated from STI College Santa Rosa in 2022 with a degree in Information Technology. My interests are in Front-End and I love to create beautiful and develop unique aesthetic web design. <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Mary+Irene+Jalalon;29+years+old;Fresh+Graduate;Starter+Front-End+Web+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=violet&lines=I'm+Mary+Irene+Jalalon;29+years+old;Fresh+Graduate;Starter+Front-End+Web+Developer;)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Gmail-shikira1117@gmail.com-red)](mailto:shikira1117@gmail.com) [![](https://img.shields.io/badge/Linkedin-Mary%20Irene%20Jalalon-blue)](https://www.linkedin.com/in/mary-irene-jalalon/)
 
