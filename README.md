@@ -2,7 +2,7 @@
 
 Hi, I'm **Mary Irene Jalalon** also known as **rinnjalalon**. I graduated from STI College Santa Rosa in 2022 with a degree in Information Technology. My interests are in Front-End and I love to create beautiful and develop unique aesthetic design. <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Carl+Casta%C3%B1as%2C+20+years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Mary+Irene+Jalalon+29+years+old;Starter+Front-end+Web+Developer;)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Gmail-carlandrewcastanas55@gmail.com-red)](mailto:carlandrewcastanas55@gmail.com) [![](https://img.shields.io/badge/Linkedin-Carl%20Andrew%20Casta%C3%B1as-blue)](https://www.linkedin.com/in/carlcastanas/)
 
