@@ -23,7 +23,6 @@ Hi, I'm **Mary Irene Jalalon** also known as **rinnjalalon**. I graduated from S
 
 
 -----
-Credits: [carlcastanas](https://github.com/carlcastanas)
 
 Last Edited on: 10/10/22
 
